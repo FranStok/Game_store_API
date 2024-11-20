@@ -1,0 +1,84 @@
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\bin\Debug\net8.0\appsettings.json
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\bin\Debug\net8.0\gameApiApp.staticwebassets.endpoints.json
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\bin\Debug\net8.0\gameApiApp.exe
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\bin\Debug\net8.0\gameApiApp.deps.json
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\bin\Debug\net8.0\gameApiApp.runtimeconfig.json
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\bin\Debug\net8.0\gameApiApp.dll
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\bin\Debug\net8.0\gameApiApp.pdb
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.AssemblyInfo.cs
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\scopedcss\bundle\gameApiApp.styles.css
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\staticwebassets\msbuild.gameApiApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\staticwebassets\msbuild.gameApiApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\staticwebassets\msbuild.build.gameApiApp.props
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.gameApiApp.props
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.gameApiApp.props
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.csproj.Up2Date
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.dll
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\refint\gameApiApp.dll
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.pdb
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.genruntimeconfig.cache
+C:\Users\franc\source\repos\gameApiApp\gameApiApp\obj\Debug\net8.0\ref\gameApiApp.dll
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\appsettings.json
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\gameApiApp.staticwebassets.endpoints.json
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\gameApiApp.exe
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\gameApiApp.deps.json
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\gameApiApp.runtimeconfig.json
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\gameApiApp.dll
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\gameApiApp.pdb
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\scopedcss\bundle\gameApiApp.styles.css
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\staticwebassets\msbuild.gameApiApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\staticwebassets\msbuild.gameApiApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\staticwebassets\msbuild.build.gameApiApp.props
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.gameApiApp.props
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.gameApiApp.props
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.csproj.Up2Date
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.dll
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\refint\gameApiApp.dll
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.pdb
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\ref\gameApiApp.dll
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\libman.json
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
