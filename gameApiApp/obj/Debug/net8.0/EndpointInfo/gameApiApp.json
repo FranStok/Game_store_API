@@ -48,6 +48,8 @@
     "schemas": {
       "Game": {
         "required": [
+          "gameId",
+          "gameStores",
           "name"
         ],
         "type": "object",
@@ -60,24 +62,44 @@
             "type": "string",
             "nullable": true
           },
-          "price": {
-            "type": "number",
-            "format": "double"
-          },
-          "genre": {
-            "$ref": "#/components/schemas/Genre"
-          },
-          "genreId": {
-            "type": "integer",
-            "format": "int32"
+          "gameStores": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/GameStore"
+            },
+            "nullable": true
           }
         },
         "additionalProperties": false
       },
-      "Genre": {
+      "GameStore": {
         "type": "object",
         "properties": {
-          "genreId": {
+          "gameId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "storeId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "game": {
+            "$ref": "#/components/schemas/Game"
+          },
+          "store": {
+            "$ref": "#/components/schemas/Store"
+          },
+          "price": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Store": {
+        "type": "object",
+        "properties": {
+          "storeId": {
             "type": "integer",
             "format": "int32"
           },
@@ -85,10 +107,10 @@
             "type": "string",
             "nullable": true
           },
-          "games": {
+          "gameStores": {
             "type": "array",
             "items": {
-              "$ref": "#/components/schemas/Game"
+              "$ref": "#/components/schemas/GameStore"
             },
             "nullable": true
           }

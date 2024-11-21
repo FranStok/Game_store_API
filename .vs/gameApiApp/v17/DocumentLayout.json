@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|c:\\users\\franc\\onedrive\\desktop\\proyecto arquitectura\\gameapiapp\\gameapiapp\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|solutionrelative:gameapiapp\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|c:\\users\\franc\\onedrive\\desktop\\proyecto arquitectura\\gameapiapp\\gameapiapp\\dtos\\gamestoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|solutionrelative:gameapiapp\\dtos\\gamestoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|c:\\users\\franc\\onedrive\\desktop\\proyecto arquitectura\\gameapiapp\\gameapiapp\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|solutionrelative:gameapiapp\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\gameApiApp\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "gameApiApp\\Models\\Store.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\gameApiApp\\Models\\Store.cs",
+              "RelativeToolTip": "gameApiApp\\Models\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T03:09:41.743Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\gameApiApp\\Repositories\\GameRepository.cs",
+              "RelativeDocumentMoniker": "gameApiApp\\Repositories\\GameRepository.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\gameApiApp\\Repositories\\GameRepository.cs",
+              "RelativeToolTip": "gameApiApp\\Repositories\\GameRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:43:33.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameStoreDTO.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\gameApiApp\\DTOs\\GameStoreDTO.cs",
+              "RelativeDocumentMoniker": "gameApiApp\\DTOs\\GameStoreDTO.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\gameApiApp\\DTOs\\GameStoreDTO.cs",
+              "RelativeToolTip": "gameApiApp\\DTOs\\GameStoreDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T03:30:36.619Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

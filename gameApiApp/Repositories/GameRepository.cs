@@ -1,4 +1,5 @@
 ﻿using gameApiApp.Data;
+using gameApiApp.DTOs;
 using gameApiApp.Interfaces;
 using gameApiApp.Models;
 using Microsoft.EntityFrameworkCore;
@@ -15,12 +16,11 @@ namespace gameApiApp.Repositories
 
         public ICollection<GameDto> getGames()
         {
-            return _context.game.Include(g => g.Genre).Select(game => new GameDto
+            return _context.Games.Select(game => new GameDto
             {
                 GameId = game.GameId,
                 Name = game.Name,
-                Price = game.Price,
-                GenreName = game.Genre.Name,
+                GameStores = game.GameStores.Select(i => new GameStoreDTO { storeId = i.StoreId, price = i.price }).ToList()
             }).OrderBy(game=>game.GameId).ToList();
         }
     }

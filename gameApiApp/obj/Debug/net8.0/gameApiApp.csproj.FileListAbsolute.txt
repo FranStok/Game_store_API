@@ -80,5 +80,6 @@ C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\
 C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\MySqlConnector.dll
-C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\obj\Debug\net8.0\gameApiApp.sourcelink.json
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\Npgsql.dll
+C:\Users\franc\OneDrive\Desktop\Proyecto arquitectura\gameApiApp\gameApiApp\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

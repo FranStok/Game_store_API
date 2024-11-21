@@ -15,9 +15,8 @@ builder.Services.AddScoped<IGameRepository,GameRepository>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<DataContext>(options =>
-    options.UseMySql(
-        builder.Configuration.GetConnectionString("DefaultConnection"),
-        new MySqlServerVersion(new Version(8, 3, 0)) // Cambia según la versión de MySQL
+    options.UseNpgsql(
+        builder.Configuration.GetConnectionString("DefaultConnection")
 ));
 
 var app = builder.Build();

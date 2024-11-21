@@ -1,12 +1,15 @@
-﻿namespace gameApiApp.Models
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace gameApiApp.Models
 {
+    [Table("games")]
     public class Game
     {
-        public int GameId { get; set; }
+        [Column("game_id")]
+        public required int GameId { get; set; }
         public required String Name { get; set; }
-        public double Price { get; set; }
-        public Genre Genre { get; set; }
-        public int GenreId { get; set; }
 
+        public required ICollection<GameStore> GameStores { get; set; }
     }
 }

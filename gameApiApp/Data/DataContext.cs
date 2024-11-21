@@ -9,17 +9,22 @@ namespace gameApiApp.Data
 
         }
 
-        public DbSet<Game> game { get; set; }
+        public DbSet<Game> Games { get; set; }
 
-        public DbSet<Genre> genre { get; set; }
+        public DbSet<Store> Stores { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            // Configuración de la relación uno a muchos
-            modelBuilder.Entity<Game>()
-                .HasOne(g => g.Genre)        // Un Game tiene un Genre
-                .WithMany(ge => ge.Games)    // Un Genre tiene muchos Games
-                .HasForeignKey(g => g.GenreId); // Clave foránea en Game
+            modelBuilder.Entity<GameStore>()
+                .HasKey(gs => new { gs.GameId, gs.StoreId });
+            modelBuilder.Entity<GameStore>()
+                .HasOne(gs => gs.Game)
+                .WithMany(g => g.GameStores)
+                .HasForeignKey(gs => gs.GameId);
+            modelBuilder.Entity<GameStore>()
+                .HasOne(gs => gs.Store)
+                .WithMany(c => c.GameStores)
+                .HasForeignKey(gs => gs.StoreId);
         }
     }
 }
