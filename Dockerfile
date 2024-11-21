@@ -12,10 +12,10 @@ EXPOSE 8081
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["gameApiApp.csproj", "./"]
-RUN dotnet restore "./gameApiApp.csproj"
+COPY ["gameApiApp/gameApiApp.csproj", "gameApiApp/"]
+RUN dotnet restore "./gameApiApp/gameApiApp.csproj"
 COPY . .
-WORKDIR "/src/."
+WORKDIR "/src/gameApiApp"
 RUN dotnet build "./gameApiApp.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
 # This stage is used to publish the service project to be copied to the final stage
