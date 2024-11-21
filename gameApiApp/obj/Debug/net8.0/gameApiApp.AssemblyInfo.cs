@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gameApiApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9291a6eecd894d85afaa06bc96896acc884db38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3df08bd998e69459f41a58ede4901afe925c1827")]
 [assembly: System.Reflection.AssemblyProductAttribute("gameApiApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gameApiApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
