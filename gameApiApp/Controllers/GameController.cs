@@ -19,11 +19,11 @@ namespace gameApiApp.Controllers
         public IActionResult getGames()
         {
             var games = _gameRepository.getGames();
-
+            var data = new {games};
             if (!ModelState.IsValid) {
                 return BadRequest(ModelState);
             }
-            return Ok(games);
+            return Ok(data);
         }
 
     }
