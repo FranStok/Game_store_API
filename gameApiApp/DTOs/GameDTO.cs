@@ -6,6 +6,7 @@ public class GameDto
     public int GameId { get; set; }
     public string Name { get; set; }
 
+    public string image { get; set; }
     public ICollection<GameStoreDTO> GameStores { get; set; }
     public ICollection<GameGenreDTO> GameGenres { get; set; }
 }

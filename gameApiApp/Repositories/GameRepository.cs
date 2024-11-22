@@ -20,6 +20,7 @@ namespace gameApiApp.Repositories
             {
                 GameId = game.GameId,
                 Name = game.Name,
+                image=game.image,
                 GameGenres=game.GameGenres.Select(gameGenre=>new GameGenreDTO
                 {
                     genre= new GenreDTO {genre=gameGenre.Genre.genre_name, genreId= gameGenre.Genre.GenreId}
