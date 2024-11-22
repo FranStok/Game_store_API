@@ -25,6 +25,17 @@ namespace gameApiApp.Data
                 .HasOne(gs => gs.Store)
                 .WithMany(c => c.GameStores)
                 .HasForeignKey(gs => gs.StoreId);
+
+            modelBuilder.Entity<GameGenre>()
+                .HasKey(gs => new { gs.GameId, gs.GenreId });
+            modelBuilder.Entity<GameGenre>()
+                .HasOne(gs => gs.Game)
+                .WithMany(g => g.GameGenres)
+                .HasForeignKey(gs => gs.GameId);
+            modelBuilder.Entity<GameGenre>()
+                .HasOne(gs => gs.Genre)
+                .WithMany(c => c.GameGenres)
+                .HasForeignKey(gs => gs.GenreId);
         }
     }
 }

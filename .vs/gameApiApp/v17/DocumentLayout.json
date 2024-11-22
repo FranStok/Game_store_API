@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|c:\\users\\franc\\onedrive\\desktop\\proyecto arquitectura\\gameapiapp\\gameapiapp\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|solutionrelative:gameapiapp\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|c:\\users\\franc\\onedrive\\desktop\\proyecto arquitectura\\gameapiapp\\gameapiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|solutionrelative:gameapiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|c:\\users\\franc\\onedrive\\desktop\\proyecto arquitectura\\gameapiapp\\gameapiapp\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|solutionrelative:gameapiapp\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|c:\\users\\franc\\onedrive\\desktop\\proyecto arquitectura\\gameapiapp\\gameapiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|solutionrelative:gameapiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|c:\\users\\franc\\onedrive\\desktop\\proyecto arquitectura\\gameapiapp\\gameapiapp\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|solutionrelative:gameapiapp\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|c:\\users\\franc\\onedrive\\desktop\\proyecto arquitectura\\gameapiapp\\gameapiapp\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|solutionrelative:gameapiapp\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|c:\\users\\franc\\onedrive\\desktop\\proyecto arquitectura\\gameapiapp\\gameapiapp\\dtos\\gamegenredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|solutionrelative:gameapiapp\\dtos\\gamegenredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|c:\\users\\franc\\onedrive\\desktop\\proyecto arquitectura\\gameapiapp\\gameapiapp\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309A7CD8-4EB0-40A1-85AE-BBE35804950B}|gameApiApp\\gameApiApp.csproj|solutionrelative:gameapiapp\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +39,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GameController.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\gameApiApp\\Controllers\\GameController.cs",
-              "RelativeDocumentMoniker": "gameApiApp\\Controllers\\GameController.cs",
-              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\gameApiApp\\Controllers\\GameController.cs",
-              "RelativeToolTip": "gameApiApp\\Controllers\\GameController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAANAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\gameApiApp\\Program.cs",
+              "RelativeDocumentMoniker": "gameApiApp\\Program.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\gameApiApp\\Program.cs",
+              "RelativeToolTip": "gameApiApp\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T22:34:59.216Z",
+              "WhenOpened": "2024-11-22T00:30:35.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenreDTO.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\gameApiApp\\DTOs\\GenreDTO.cs",
+              "RelativeDocumentMoniker": "gameApiApp\\DTOs\\GenreDTO.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\gameApiApp\\DTOs\\GenreDTO.cs",
+              "RelativeToolTip": "gameApiApp\\DTOs\\GenreDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:27:27.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\gameApiApp\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "gameApiApp\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\gameApiApp\\Models\\Genre.cs",
+              "RelativeToolTip": "gameApiApp\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:25:59.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameGenreDTO.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\gameApiApp\\DTOs\\GameGenreDTO.cs",
+              "RelativeDocumentMoniker": "gameApiApp\\DTOs\\GameGenreDTO.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\gameApiApp\\DTOs\\GameGenreDTO.cs",
+              "RelativeToolTip": "gameApiApp\\DTOs\\GameGenreDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:21:19.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\gameApiApp\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "gameApiApp\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\gameApiApp\\Models\\Game.cs",
+              "RelativeToolTip": "gameApiApp\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:20:39.22Z",
               "EditorCaption": ""
             },
             {
@@ -45,22 +109,9 @@
               "RelativeDocumentMoniker": "gameApiApp\\Repositories\\GameRepository.cs",
               "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\gameApiApp\\Repositories\\GameRepository.cs",
               "RelativeToolTip": "gameApiApp\\Repositories\\GameRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T22:35:13.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\gameApiApp\\Program.cs",
-              "RelativeDocumentMoniker": "gameApiApp\\Program.cs",
-              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\Proyecto arquitectura\\gameApiApp\\gameApiApp\\Program.cs",
-              "RelativeToolTip": "gameApiApp\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAkwCIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T21:40:20.414Z",
+              "WhenOpened": "2024-11-22T00:16:58.5Z",
               "EditorCaption": ""
             }
           ]

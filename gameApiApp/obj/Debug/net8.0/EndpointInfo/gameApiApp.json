@@ -48,8 +48,10 @@
     "schemas": {
       "Game": {
         "required": [
+          "gameGenres",
           "gameId",
           "gameStores",
+          "image",
           "name"
         ],
         "type": "object",
@@ -62,12 +64,43 @@
             "type": "string",
             "nullable": true
           },
+          "image": {
+            "type": "string",
+            "nullable": true
+          },
+          "gameGenres": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/GameGenre"
+            },
+            "nullable": true
+          },
           "gameStores": {
             "type": "array",
             "items": {
               "$ref": "#/components/schemas/GameStore"
             },
             "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "GameGenre": {
+        "type": "object",
+        "properties": {
+          "gameId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "genreId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "game": {
+            "$ref": "#/components/schemas/Game"
+          },
+          "genre": {
+            "$ref": "#/components/schemas/Genre"
           }
         },
         "additionalProperties": false
@@ -92,6 +125,30 @@
           "price": {
             "type": "number",
             "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Genre": {
+        "required": [
+          "gameGenres"
+        ],
+        "type": "object",
+        "properties": {
+          "genreId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "genre_name": {
+            "type": "string",
+            "nullable": true
+          },
+          "gameGenres": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/GameGenre"
+            },
+            "nullable": true
           }
         },
         "additionalProperties": false

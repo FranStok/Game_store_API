@@ -26,8 +26,10 @@ builder.Services.AddCors(options =>
 });
 
 builder.Services.AddDbContext<DataContext>(options =>
-    options.UseNpgsql(
-        Environment.GetEnvironmentVariable("DB_CONNECTION_STRING")
+     options.UseNpgsql(
+         Environment.GetEnvironmentVariable("DB_CONNECTION_STRING")
+//options.UseNpgsql(
+//   builder.Configuration.GetConnectionString("DefaultConnection")
 ));
 
 var app = builder.Build();

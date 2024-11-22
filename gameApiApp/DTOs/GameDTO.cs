@@ -7,4 +7,5 @@ public class GameDto
     public string Name { get; set; }
 
     public ICollection<GameStoreDTO> GameStores { get; set; }
+    public ICollection<GameGenreDTO> GameGenres { get; set; }
 }
