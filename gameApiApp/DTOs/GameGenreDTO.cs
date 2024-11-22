@@ -2,7 +2,8 @@
 {
     public class GameGenreDTO
     {
-        public GenreDTO genre { get; set; }
+        public int genreId { get; set; }
+        public string genre { get; set; }
 
     }
 }

@@ -23,7 +23,8 @@ namespace gameApiApp.Repositories
                 image=game.image,
                 GameGenres=game.GameGenres.Select(gameGenre=>new GameGenreDTO
                 {
-                    genre= new GenreDTO {genre=gameGenre.Genre.genre_name, genreId= gameGenre.Genre.GenreId}
+                    genre= gameGenre.Genre.genre_name,
+                    genreId = gameGenre.Genre.GenreId
                 }).ToList(),
                 GameStores = game.GameStores.Select(i => new GameStoreDTO { storeId = i.StoreId, price = i.price }).ToList()
             }).OrderBy(game=>game.GameId).ToList();
