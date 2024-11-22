@@ -29,5 +29,14 @@ namespace gameApiApp.Repositories
                 GameStores = game.GameStores.Select(i => new GameStoreDTO { storeId = i.StoreId, price = i.price }).ToList()
             }).OrderBy(game=>game.GameId).ToList();
         }
+        public ICollection<GenreDTO> getGenres()
+        {
+            return _context.Genres.Select(genre => new GenreDTO
+            {
+                genre = genre.genre_name,
+                genreId = genre.GenreId
+
+            }).OrderBy(genre => genre.genreId).ToList();
+        }
     }
 }
